@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc491600.chunk.css",
+    "main.js": "/static/js/main.915f010e.chunk.js",
+    "main.js.map": "/static/js/main.915f010e.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.83e5e4c8.js",
+    "runtime~main.js.map": "/static/js/runtime~main.83e5e4c8.js.map",
+    "static/js/2.b20171b8.chunk.js": "/static/js/2.b20171b8.chunk.js",
+    "static/js/2.b20171b8.chunk.js.map": "/static/js/2.b20171b8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b16ffc52b84ab9e588681509eaa10434.js": "/precache-manifest.b16ffc52b84ab9e588681509eaa10434.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cc491600.chunk.css.map": "/static/css/main.cc491600.chunk.css.map",
+    "static/media/ListReport.jpg": "/static/media/ListReport.d33e2d9b.jpg",
+    "static/media/ObjectPage.jpg": "/static/media/ObjectPage.8589f555.jpg",
+    "static/media/OverviewPage.jpg": "/static/media/OverviewPage.59410ce0.jpg",
+    "static/media/PersonalCrop.JPG": "/static/media/PersonalCrop.c61857c3.JPG",
+    "static/media/Worklist.jpg": "/static/media/Worklist.4a171d77.jpg",
+    "static/media/code1.gif": "/static/media/code1.b4b987f5.gif",
+    "static/media/theHolyKitchen.jpg": "/static/media/theHolyKitchen.f988b6aa.jpg",
+    "static/media/theOfficeIpsum.jpg": "/static/media/theOfficeIpsum.76593e5a.jpg"
+  }
+}
