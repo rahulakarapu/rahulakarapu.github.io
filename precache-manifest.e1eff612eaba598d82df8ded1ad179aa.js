@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "192412382a43e48bf9c3617f0a41a110",
+    "revision": "3eb6e274250d1a2c2423419bfa247c68",
     "url": "/index.html"
   },
   {
-    "revision": "d217680851132d792c1d",
+    "revision": "0c7348f0347a7f1ba6d0",
     "url": "/static/css/main.a367cf7e.chunk.css"
   },
   {
-    "revision": "85fc7b6e1a110e048d92",
-    "url": "/static/js/2.a751ba0c.chunk.js"
+    "revision": "199b9abe0f415084db9b",
+    "url": "/static/js/2.ead6157a.chunk.js"
   },
   {
-    "revision": "d217680851132d792c1d",
-    "url": "/static/js/main.3d25eceb.chunk.js"
+    "revision": "0c7348f0347a7f1ba6d0",
+    "url": "/static/js/main.76bc12ff.chunk.js"
   },
   {
     "revision": "638daaa464e5a04d90fc",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b4b987f5983c612b8afa6cb73752e50f",
     "url": "/static/media/code1.b4b987f5.gif"
+  },
+  {
+    "revision": "2e1fcdb299201f6acc3c2a28f828d33b",
+    "url": "/static/media/ftbl-world.2e1fcdb2.jpg"
   },
   {
     "revision": "739ead7f0ab8e519b8211b00e76c425d",
